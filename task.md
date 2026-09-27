@@ -20,5 +20,5 @@ Chuti a fantazii se meze nekladou a na úloze nám můžete ukázat, co umíte. 
 
 ## Odevzdání
 
-1. Vypracovanou úlohu vložte do veřejného repozitáře.
-2. Pošlete nám URL.
+1. Úlohu vypracujte ve vlastním veřejném repozitáři.
+2. Pošlete nám URL svého repozitáře.
